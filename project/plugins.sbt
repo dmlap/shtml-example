@@ -1,1 +1,1 @@
-addSbtPlugin("com.github.dmlap" % "shtml" % "0.1-SNAPSHOT")
+addSbtPlugin("com.github.dmlap" % "shtml-plugin" % "0.1-SNAPSHOT")
